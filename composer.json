@@ -1,0 +1,17 @@
+{
+    "name": "hyperuix/wp-hypr-sso",
+    "description": "SSO for HYPERUIX staff, to login to WordPress with minimal effort",
+    "homepage": "https://github.com/hyperuix/wp-hypr-sso",
+    "license": "Private",
+    "authors": [
+      {
+        "name": "HYPERUIX",
+        "email": "admin@hyperuix.com.au",
+        "homepage": "https://www.hyperuix.com.au/"
+      }
+    ],
+    "type": "wordpress-muplugin",
+    "require": {
+      "php": ">=7.3"
+    }
+  }
